@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @MrNoxy
-- 👀 I’m interested in Coding in VS C#
-- 🌱 I’m currently learning More C# and how to make a Exploit API
-- 💞️ I’m looking to collaborate on Making a Exploit API
-- 📫 How to reach me Mr. Noxy#0002 (on discord) 
-Note: The discord name is with space between . and Noxy
+- 👋 Hi, I’m Noxy.
+- 👀 I’m interested in Visual Studio C# and VB.
+- 🌱 I’m currently learning More C# and VB.
+- 💞️ I’m looking to collaborate with people that can help me!
+- 📫 How to reach me:
+*Discord: DeletedUser#6331
+*Email: noxy@inbox.eu
+*Instagram: @mr.n0xy
